@@ -1,0 +1,21 @@
+/* Inter font Cdn*/
+
+/* CSS Start*/
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+:root {
+  --test: white;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: var(--Gray-600);
+}
